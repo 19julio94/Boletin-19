@@ -4,8 +4,7 @@ import java.util.ArrayList;
 import javax.swing.JOptionPane;
 
 /**
- *
- * @author JP
+ *@author jpatriciodasilva
  */
 public class Buzon {
 
